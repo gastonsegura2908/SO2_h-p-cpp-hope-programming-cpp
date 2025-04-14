@@ -1,2 +1,0 @@
-OUTPUT_DIRECTORY = ./doc
-INPUT = ./src ./include
